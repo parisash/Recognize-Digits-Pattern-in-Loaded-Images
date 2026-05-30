@@ -165,8 +165,6 @@ Planned improvements for this repository include:
 ## Author
 
 **Parisa Shojaei**
-Cybersecurity GRC · Cloud Security · Privacy Governance · Risk Analytics · AI Assurance
-Python · SQL · AWS · Jira · Machine Learning · Deep Learning
 
 ## Note
 
